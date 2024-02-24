@@ -1,5 +1,6 @@
 
 public class mainplayer {
+
         // player 02
     public static void main(String[] args) {
         int a=6;
@@ -10,5 +11,6 @@ public class mainplayer {
         // multiple of two number code added
         int m=a*b;
         System.out.println(m);
+
     }
 }
